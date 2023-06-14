@@ -1,0 +1,15 @@
+ás(A), 
+rei(K), 
+dama(Q), 
+valete(J), 
+curinga(Joker) 
+e as cartas numéricas de 2 a 10 cada uma dessas tem 4 cartas de cada cor 4 vermelhas 4 pretas
+ 
+E os naipes que são os símbolos das cartas são:
+
+Naipes pretos: 
+Paus - Árvorezinha 
+Espadas - a espadazinha 
+Naipes vermelhos: 
+Ouros - o losango 
+Copas - o coração 
